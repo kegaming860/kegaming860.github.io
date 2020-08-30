@@ -2,18 +2,20 @@ p {
   text-align: center;
   font-family: courier;
   font-size: 25px;
+  color: white;
 }
 
 h1 {
   font-family: courier;
   font-size: 30;
   text-align: center;
+  color: white;
 }
 
 a {
   font-family: courier;
   font-size: 25px;
-  color: black;
+  color: white;
 }
 
 body {
